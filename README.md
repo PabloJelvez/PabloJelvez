@@ -1,4 +1,4 @@
-## Hi there 👋 Soy Pablo Jélvez Desarrollador Front End
+## Hi there 👋 Soy Pablo Jélvez Desarrollador Front End React and Vue
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloJelvez&show_icons=true&theme=transparent)
 

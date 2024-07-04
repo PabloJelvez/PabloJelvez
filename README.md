@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloJelvez&show_icons=true&theme=transparent)
 
+### Bio
+
+Hola, 😄 soy Pablo Jélvez, estudie desarrollo FrontEnd React en academia Desafio Latam y actualmente me encuentro estudiando Desarrollo FrontEnd con Vue en Talento digital Chile, tengo un año de experiencia en el mundo del desarrollo web. Tambien soy titulado como analista de sistemas y programación computacional de instituto profesional AIEP. ⚡ Soy un entusiasta del desarrollo y la tecnología, me gusta aprender y estoy muy motivado por trabajar en un equipo en el cúal pueda trabajar y desarrollarme como profesional. ¿Quieres contactarme? 📫 contactame a los links de mis redes sociales que estan en mi perfil o escribeme a mi correo pjelvezj@gmail.com
+
 <!--
 **PabloJelvez/PabloJelvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
